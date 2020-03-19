@@ -1,0 +1,185 @@
+body, p {
+font-family: 'Poppins', sans-serif;
+color: #30545C;
+font-size: 35px;
+padding: 0;
+margin: 0;
+}
+
+div, p, input, button, form, span, a, ul, li {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: 'Qwigley', cursive;
+}
+
+h1, h2, h3, h4, h5, h6 {
+padding: 0;
+margin: 0;
+}
+
+body{
+background: url(./img/fon2.png) no-repeat 100% 0%;
+}
+
+header{
+
+
+
+}
+
+
+.contanier{
+width: 1600px;
+margin: 0 auto;
+
+}
+
+.contanier_fon{
+padding: 100px;
+background: url(img/fon.jpg) no-repeat;
+border-radius: 15px;
+padding: 30px 80px 400px 110px;
+width: 1152px;
+margin: 100px 0 0 60px;
+
+}
+
+span{
+font-family: 'Poppins', sans-serif;
+margin-right: 5px;
+font-size: 32px;
+color: white;
+
+}
+
+.contanier_logo{
+
+
+}
+
+.contanier_a{
+display: flex;
+}
+
+
+.contanier_main{
+font-size: 32;
+margin-left: 150px;
+
+
+}
+
+.contanier_main a{
+	text-decoration: none;
+	color: #30545C;
+	z-index: 1;
+	position: relative;
+}
+
+
+li{
+display: inline;
+margin-left: 60px;
+
+}
+
+.Nowinbali{
+color: #30545C;
+font-weight: bold;
+
+}
+
+h1{
+font-family: 'Poppins', sans-serif;
+color: #3D3A48;
+font-weight: bold;
+font-size: 77px;
+width: 362px;
+line-height: 1;
+text-transform: uppercase;
+display: inline-block;
+margin-right: 120px;
+
+}
+
+
+.tex_one{
+font-family: 'Poppins', sans-serif;
+width: 250px;
+font-size: 24px;
+display:inline-block;
+border-left: solid white 10px;
+padding-left: 30px;
+line-height: 1em;
+
+}
+
+
+
+.image{
+width: 1360px;
+margin: -80px 150px;
+display: flex;
+}
+
+
+.box{
+
+width: 360px;
+height: 230px;
+padding: 20px;
+margin-left: 40px;
+border-radius: 12px;
+
+}
+
+
+.box h4{
+font-size: 12px;
+font-family: 'Poppins', sans-serif;
+color: #18352E;
+background: rgba(255, 255, 255, 0.74);
+border-radius: 50px;
+padding: 10px 25px;
+font-weight: 500;
+display: inline;
+}
+
+.box h3{
+margin-top: 40px;
+font-size: 37px;
+color: #ffffff;
+
+}
+
+.box p{
+font-family: 'Poppins', sans-serif;
+font-size: 18px;
+color: #ffffff;
+
+}
+
+.one{
+
+background-image: url(./img/Rectangle3.jpg);
+
+}
+
+.two{
+background-image: url(./img/Rectangle1.jpg);
+}
+
+.fry{
+background-image: url(./img/Rectangle2.jpg);
+}
+
+
+.serf{
+
+margin: -280px 650px 0;
+width: 800px;
+position: absolute;
+
+
+}

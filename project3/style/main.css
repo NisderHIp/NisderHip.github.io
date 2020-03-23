@@ -1,0 +1,356 @@
+
+body{
+
+}
+
+
+.contanier{
+	width: 1440px;
+	margin: 0 auto;`
+	padding: 80px;
+}
+
+.logo{
+	font-family: Homemade Apple;
+	font-weight: normal;
+	font-size: 18px
+}
+
+.navigation_bar{
+	display: flex;
+	justify-content: space-between;
+	padding: 47px 35px 47px 80px;
+     background: #FAFAFA;
+     font-size: 18px;
+}
+
+nav a{
+	text-decoration: none;
+	color: #000000;
+}
+
+li{
+	display: inline;
+	margin: 0 0 0 30px;
+}
+
+
+.btn{
+	border: 1px solid #F7941E;
+	box-sizing: border-box;
+	border-radius: 5px;
+	text-transform: uppercase;
+	padding: 10px 15px;
+	color: #F7941E;
+	background: #FAFAFA;
+	transition: 0.5s;
+}
+
+.box1{
+	display: flex;
+	flex-wrap: wrap-reverse;
+}
+
+
+.box{
+	width: 720px;
+	height: 700px;
+	background: #F1F1F2;
+	flex-flow: column wrap;
+	box-sizing: border-box;
+	padding: 160px 160px 0 100px;
+}
+
+
+.box1 .text h3{
+	font-size: 32px;
+	margin-bottom: 55px;
+
+}
+
+.box1 .text p{
+	line-height: 1.3em;
+	font-size: 20px;
+	margin-bottom: 35px;
+}
+
+.btn2{
+	padding: 20px 40px;
+}
+
+.btn:hover{
+	background: #F7941E;
+	color: #FFFFFF;
+}
+.box1 .tex2 h3{
+	font-size: 56px;
+	line-height: 69px;
+	width: 400px;
+	margin-bottom: 35px;
+}
+
+	
+.box1 .tex2 p{
+	width: 300px;
+	font-size: 20px;
+	margin-bottom: 50px;
+}
+
+
+.img1{
+	background-image: url(img/Background.png) ;
+
+
+}
+.img2{
+	background-image: url(img/Mediabackground.png) ;
+	height: 700px;
+}
+
+
+
+
+
+.heading{
+	text-align: center;
+	padding: 95px 0 0 0;
+
+}
+
+.heading h2{
+	margin: 0 0 65px 0;
+	font-size: 32px;
+}
+
+.heading p{
+	font-size: 18px;
+	padding: 0 0 65px 0;
+}
+
+.headblog h3{
+	font-size: 32px;
+	margin-bottom: 25px;
+}
+
+.headblog p{
+	font-size: 18px;
+}
+
+.gifts{
+	display: flex;
+	flex-wrap: nowrap;
+	padding: 0 0 300px 0;
+
+	
+}
+
+.object{
+	margin: 0 auto;
+	width: 270px;
+	height: 440px;
+	background: #FAFAFA;
+	transition: s;
+
+}
+
+
+
+.object a{
+	color: #000000;
+	text-decoration: none;
+
+}
+
+.fry h3{
+	margin: 300px 0 75px 0;
+	padding: 0 0 25px 15px;
+}
+
+.fry a{
+	padding: 0 0 25px 15px;
+
+}
+.ob1{
+	background:url(img/Rectangle.png);
+	height: 270px;
+	width: 270px;
+}
+
+.ob2{
+	background:url(img/Rectangle-1.png);
+	height: 270px;
+	width: 270px;
+}
+
+.ob3{
+	background:url(img/Rectangle-2.png);
+	height: 270px;
+	width: 270px;
+}
+
+.ob4{
+	background:url(img/Rectangle-3.png);
+	height: 270px;
+	width: 270px;
+}
+
+
+
+
+
+
+.started{
+	background: #F7941E;
+	padding: 80px 235px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.ask h4{
+	font-size: 32px;
+	font-weight: bold;
+}
+.choice{
+	margin: auto 0;
+}
+
+
+.ask p{
+	font-size: 32px;
+}
+
+.started .btn2{
+	font-size: 18px;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 18px 24px;
+}
+
+.b1{
+	;
+	border-radius: 5px;
+	color: #000000;
+	margin-left: 10px;
+	border: 1px solid #000000;
+	transition: 0.5s;
+}
+.b1:hover{
+	background: #231F20;
+	color: #FFFFFF;
+}
+
+.b2{
+	color: #000000;
+	border-radius: 5px;
+}
+
+.readmore img{
+	float: left;
+
+}
+
+.readmore{
+	background: #231F20;
+	width: 1170px;	
+	height: 370px;	
+	margin: 0 auto;
+
+}
+
+.par{
+	padding: 60px 0 0 500px;
+
+}
+
+.par :nth-child(1){
+	margin-bottom: 27px;
+	color: #FFFFFF;
+	font-size: 14px;
+}
+
+.par :nth-child(2){
+	margin-bottom: 60px;
+	color: #FFFFFF;
+	font-size: 48px;
+	width: 450px;	
+
+}
+
+.par :nth-child(3){
+	color: #FFFFFF;
+	font-size: 18px;
+}
+
+
+.crate{
+	display: flex;
+	margin-top: 40px;
+	margin-bottom: 80px;
+}
+
+.readmore2{
+	background: #FFFFFF;
+	margin: 0 auto;
+	width: 570px;	
+	padding: 48px;
+	transition: 0.5;
+}
+
+.readmore2:hover{
+	
+	box-shadow: 0 0 10px rgba(0,0,0,0.6);
+	padding: 20px;
+	
+}
+
+.readmore2 :nth-child(1){
+	width: 350px;	
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+
+.readmore2 :nth-child(2){
+	font-size: 18px;
+	margin-bottom: 15px;
+}
+
+.main2{
+	width: 1000px;
+	border-bottom: 1px solid #000000;
+	padding-bottom:40px;
+	margin: 0 auto;
+}
+
+.main2 ul{
+
+	display: flex;
+	justify-content: center;
+}
+
+.main2 li{
+	margin-left: 80px;
+	display: inline;
+
+}
+
+.icons{
+	margin: 55px 0 70px 0;
+	display:flex;
+	justify-content: center;
+}
+
+.icons img{
+	margin: 25px
+}
+
+
+.zbs p{
+	display: inline;
+	
+}
+
+.par2{
+	margin: 0 0 0 620px;
+}

@@ -36,7 +36,7 @@ if(text!=0){
              alert ("вы не указали шаг!");}
 } else {
     alert ("вы не ввели сообщение!");}
-    alert (cryptogram.ToLowerCase);
+    alert (cryptogram.ToLowerCase();
 
 
 
